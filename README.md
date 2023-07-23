@@ -41,4 +41,8 @@ Untuk menggunakan skrip HtmlSmug, ikuti langkah-langkah berikut:
 - Python 3.x
 - Modul `rich`
 
-Pastikan Anda memiliki Python yang terinstal dan telah menginstal modul `rich` sebelum menjalankan skrip ini.
+Pastikan Anda memiliki Python yang terinstal dan telah menginstal modul `rich` sebelum menjalankan skrip ini. 
+
+![Tampilan SC](IMG/Screenshot_20230723_220501.jpg)
+
+
