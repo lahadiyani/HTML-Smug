@@ -1,14 +1,14 @@
-# Dokumentasi HtmlSmuggling.py
+# HtmlSmug
 
 ## Deskripsi
 
-HtmlSmuggling.py adalah sebuah skrip Python yang digunakan untuk menyembunyikan file malware (file berbahaya) dalam kode HTML yang dieksploitasi. Metode ini memanfaatkan HTML dan JavaScript untuk menyembunyikan file berbahaya dalam kode HTML dan membuat file yang dieksploitasi ini tampak seolah-olah hanya sebuah file HTML biasa. Ketika file HTML ini dibuka oleh korban, JavaScript di dalamnya akan mengekstrak dan mengeksekusi file berbahaya tersebut di sistem korban.
+HtmlSmug adalah sebuah skrip Python yang digunakan untuk menyembunyikan file malware (file berbahaya) dalam kode HTML yang dieksploitasi. Metode ini memanfaatkan HTML dan JavaScript untuk menyembunyikan file berbahaya dalam kode HTML dan membuat file yang dieksploitasi ini tampak seolah-olah hanya sebuah file HTML biasa. Ketika file HTML ini dibuka oleh korban, JavaScript di dalamnya akan mengekstrak dan mengeksekusi file berbahaya tersebut di sistem korban.
 
 Skrip ini bertujuan untuk mendemonstrasikan bagaimana file berbahaya dapat disembunyikan dalam file HTML sehingga mungkin dapat melewati beberapa mekanisme deteksi keamanan dan antivirus.
 
 ## Cara Penggunaan
 
-Untuk menggunakan skrip HtmlSmuggling.py, ikuti langkah-langkah berikut:
+Untuk menggunakan skrip HtmlSmug, ikuti langkah-langkah berikut:
 
 1. Pastikan Anda telah memiliki Python yang diinstal di komputer Anda.
 
